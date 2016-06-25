@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data science specialization assignment
+This is for the final project in the Coursera Data science toolbox.
